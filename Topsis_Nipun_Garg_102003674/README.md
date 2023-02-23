@@ -8,6 +8,8 @@
 - Outputs the result(topsis score) and ranking of items in output.csv file you will mention in terminal or command promt
 - Inputs the file path of input csv file in terminal
 
+https://pypi.org/project/Topsis-Nipun-Garg-102003674/
+
 ## Example
 
 ```
